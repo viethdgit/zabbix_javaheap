@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>3.2</version>
-    <date>2017-07-26T07:38:59Z</date>
+    <date>2017-07-26T09:21:42Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -197,7 +197,7 @@
                             <snmp_oid/>
                             <key>custom.hsm.pid.name[{#PID}]</key>
                             <delay>60</delay>
-                            <history>1</history>
+                            <history>0</history>
                             <trends>0</trends>
                             <status>0</status>
                             <value_type>4</value_type>
