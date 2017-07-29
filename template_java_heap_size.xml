@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>3.2</version>
-    <date>2017-07-29T15:20:40Z</date>
+    <date>2017-07-29T15:27:19Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -402,7 +402,7 @@
                                     <sortorder>1</sortorder>
                                     <drawtype>0</drawtype>
                                     <color>F63100</color>
-                                    <yaxisside>0</yaxisside>
+                                    <yaxisside>1</yaxisside>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
